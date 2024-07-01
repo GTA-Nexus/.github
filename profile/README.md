@@ -29,6 +29,6 @@
 <br>
 <h3 align="left">
 	Este servidor cuenta con la protección de <a href="https://edgehosting.es">@edgehosting</a>
-	<img src="https://jaareet.es/img/logo.png" alt="Jaareet's Logo, Jaareet Logo, Logo jaret" width="120" align=right>
+	<img src="https://jaareet.dev/img/logo.png" alt="Jaareet's Logo, Jaareet Logo, Logo jaret" width="120" align=right>
 	<br><div align=right><h5><b>Made with love</b>, by <a href="https://github.com/jaareet">@Jaareet</a></h5></div>
 </h3>
